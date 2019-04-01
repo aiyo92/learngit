@@ -9,3 +9,6 @@ Creating a new branch is quick and simple.
 this is my new line
 this is my new line2
 this is your new line3
+this is my new line3
+this is my new line4
+

@@ -1,2 +1,5 @@
 this is my new file
 this is my new file for bug101
+this is my new file2
+this is my new file3
+
