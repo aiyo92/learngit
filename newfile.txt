@@ -2,4 +2,4 @@ this is my new file
 this is my new file for bug101
 this is my new file2
 this is my new file3
-
+this is my new file3 for v3.0
