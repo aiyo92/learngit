@@ -6,3 +6,4 @@ change2
 change3
 test branch dev
 Creating a new branch is quick and simple.
+this is my new line
